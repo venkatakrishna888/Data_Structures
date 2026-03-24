@@ -6,5 +6,7 @@ Programs :
 - Stack
 - Queue
 - array
+- linear_search
+- bubble_sort
 
   Author : venkatakrishna
